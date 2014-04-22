@@ -1,5 +1,5 @@
 
-public class LanHouse {
+public class LanHouse implements LanHouseIF{
 
 	Cliente [] clientes;
 	Funcionario [] funcionarios;
